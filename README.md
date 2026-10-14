@@ -1,2 +1,2 @@
-# Mr-Amit-Tamboli.github.io
+# AmitTambolii.github.io
 My personal resume website
